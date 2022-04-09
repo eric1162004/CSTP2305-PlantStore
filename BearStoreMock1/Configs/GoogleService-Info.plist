@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>201411760507-tdjam9ggbmrs8lg1as1j1j8gi0dmrk17.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.201411760507-tdjam9ggbmrs8lg1as1j1j8gi0dmrk17</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA6T06cD_wluWIo4wDvoY0r-LPsU8GAoUk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>201411760507</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>codewitheric.BearStoreMock1</string>
+	<key>PROJECT_ID</key>
+	<string>cstp2303-erictesting</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cstp2303-erictesting.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:201411760507:ios:15d368baaa0ee88bceedde</string>
+</dict>
+</plist>

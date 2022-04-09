@@ -9,9 +9,13 @@ import SwiftUI
 
 @main
 struct BearStoreMock1App: App {
+    
+    // Set up Firebase when finish launch, see appDelegate
+    @UIApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootScreen()
         }
     }
 }
