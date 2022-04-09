@@ -596,7 +596,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"BearStoreMock1/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = BearStoreMock1/Info.plist;
+				INFOPLIST_FILE = BearStoreMock1/Configs/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -625,7 +625,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"BearStoreMock1/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = BearStoreMock1/Info.plist;
+				INFOPLIST_FILE = BearStoreMock1/Configs/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
